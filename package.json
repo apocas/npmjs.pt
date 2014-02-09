@@ -1,0 +1,18 @@
+{
+    "name"        : "npmjs.pt"
+  , "version"     : "0.0.1"
+  , "homepage"    : "http://npmjs.pt"
+  , "description" : "NPM Portuguese mirror"
+  , "dependencies": {
+      "express" : "*"
+      , "colors" : "*"
+      , "request" : "*"
+    }
+  , "scripts": {
+    "start": "node main.js"
+  }
+  , "author": "Pedro Dias <petermdias@gmail.com>"
+  , "maintainers": [
+    "apocas <petermdias@gmail.com>"
+  ]
+}
